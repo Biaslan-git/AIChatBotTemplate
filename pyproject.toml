@@ -1,0 +1,16 @@
+[project]
+name = "aichatbottemplate"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "aiogram>=3.19.0",
+    "googletrans>=4.0.2",
+    "groq>=0.21.0",
+    "langdetect>=1.0.9",
+    "loguru>=0.7.3",
+    "pydantic>=2.10.6",
+    "pydantic-settings>=2.8.1",
+    "requests>=2.32.3",
+]
